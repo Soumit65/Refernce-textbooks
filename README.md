@@ -1,2 +1,1 @@
-# Refernce-textbooks
-Hi! Here are some textbooks and manuals I have come across while trying to explore and learn topics in Physics. Some are from textbooks that were used for reference during coursework, and the others while exploring.
+Hi these are some books I used during my courses at Ashoka. It also has some other interesting papers or books I came across. I hope you enjoy them too :)
